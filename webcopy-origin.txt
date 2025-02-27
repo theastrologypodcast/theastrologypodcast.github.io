@@ -1,0 +1,548 @@
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-128-dark.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\image-inside-128-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-64-dark.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\image-inside-64-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-0c96ad3f9948c3a7b631-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\cldr-resource-pack-0c96ad3f9948c3a7b631-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-164ba60d4782c368c49b-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\common-164ba60d4782c368c49b-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-75f98ebc7f11d5f6b01f-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\common-vendors-75f98ebc7f11d5f6b01f-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-2965e1fc774101038a7d-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\common-vendors-stable-2965e1fc774101038a7d-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-c4d588d4255cd4c70fa3-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\extract-css-moment-js-vendor-c4d588d4255cd4c70fa3-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-99b53dfd2035099a67ea-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\extract-css-runtime-99b53dfd2035099a67ea-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-773b94c1420443472c38-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\universal\scripts-compressed\performance-773b94c1420443472c38-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.map/a3799b4b-da86-4145-b3ea-8262631115f5_61/website.components.map.visitor.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\website-component-definition\static-assets\website.components.map\a3799b4b-da86-4145-b3ea-8262631115f5_61\website.components.map.visitor.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Abel:wght@400&family=Antic+Didone:wght@400&family=Source+Code+Pro:ital,wght@0,300;0,400;0,500;0,700;1,300;1,700
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE6Vg.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\abel\v18\MwQ5bhbm2POE6Vg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/anticdidone/v16/RWmPoKKX6u8sp8fIWdnDKqDiqQ.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\anticdidone\v16\RWmPoKKX6u8sp8fIWdnDKqDiqQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQhM4.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QhM4.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTi4prSQ.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\sourcecodepro\v23\HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTi4prSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTMo1rSQ.ttf
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\s\sourcecodepro\v23\HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTMo1rSQ.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\index-1.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/6723d580c70c505bd70cdf4b/92ab6985-a4e6-4e06-8cf6-719e6ba5ea31/22.png?content-type=image%2Fpng
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\6723d580c70c505bd70cdf4b\92ab6985-a4e6-4e06-8cf6-719e6ba5ea31\22.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666511-N9DPMIVJ3A8CNGUJ5B52/palmistry.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666511-N9DPMIVJ3A8CNGUJ5B52\palmistry-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666515-5YNN1Y57I66JGSH610XH/palm-rreading.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666515-5YNN1Y57I66JGSH610XH\palm-rreading-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666520-31PXTJYXQ5TY0OA6TYXS/pexels-photo-6014324.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666520-31PXTJYXQ5TY0OA6TYXS\pexels-photo-6014324-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666525-PIWP2REQBYRJM7F4Z2RJ/flames-thumb1605085180.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666525-PIWP2REQBYRJM7F4Z2RJ\flames-thumb1605085180-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666529-IFGW2R6F4LZKFUSQIZNF/EV_RFS_20181102_01_026.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666529-IFGW2R6F4LZKFUSQIZNF\EV_RFS_20181102_01_026-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666534-C3Q8G2V3PYB3VOGDPLCF/20220531-how-to-balance-your-chakras.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666534-C3Q8G2V3PYB3VOGDPLCF\20220531-how-to-balance-your-chakras-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666538-UOS9CB0SSOGU2YDUPV3P/AdobeStock_88105062-landscape.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666538-UOS9CB0SSOGU2YDUPV3P\AdobeStock_88105062-landscape-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401666542-E83LFA8LVNL8TES2YZB8/PastLife.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401666542-E83LFA8LVNL8TES2YZB8\PastLife-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=300w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/1730401667549-UK37LRL3XHFD8CNJDJ2B/White.png?format=750w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\1730401667549-UK37LRL3XHFD8CNJDJ2B\White-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/5bdee996-27de-4c67-bef0-2b4ed790ef8c/0l.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\5bdee996-27de-4c67-bef0-2b4ed790ef8c\0l.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/6723d580c70c505bd70cdf4b/9c105374-2195-4d37-acee-0c238e3b5475/favicon.ico?format=100w
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\content\v1\6723d580c70c505bd70cdf4b\9c105374-2195-4d37-acee-0c238e3b5475\favicon.ico
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/static/sitecss/6723d580c70c505bd70cdf4b/2/52e96934e4b0ea14d0f64568/6723d580c70c505bd70cdf53/1137/site.css
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\static\sitecss\6723d580c70c505bd70cdf4b\2\52e96934e4b0ea14d0f64568\6723d580c70c505bd70cdf53\1137\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1137/scripts/site-bundle.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\static\ta\52e968b5e4b04d2aa2a3bba3\1137\scripts\site-bundle.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/ik/zyUDcGoKmP8fR6-3KSLLUnOEMprc2U2XcvSYVG4CcebfeGvgfFHN4UJLFRbh52jhWDjawRFqFQ63jDS3jD93FA4qFDgRZejXjyGMJ6TljWFUiABCZW4zJ6lRjAoXdkuKS1mD-fGHfHAXMyMMeMb6MKGHfw0GMyMgeMw6MKGHfOQnMsMgeMb6MKGHfOVnMsMgeMS6MKGHfwhGMyMgeMt6MKGHfwrGMyMgegI6MTMgUrrV0bj.js
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\ik\zyUDcGoKmP8fR6-3KSLLUnOEMprc2U2XcvSYVG4CcebfeGvgfFHN4UJLFRbh52jhWDjawRFqFQ63jDS3jD93FA4qFDgRZejXjyGMJ6TljWFUiABCZW4zJ6lRjAoXdkuKS1mD-fGHfHAXMyMMeMb6MKGHfw0GMyMgeMw6MKGHfOQnMsMgeMb6MKGHfOVnMsMgeMS6MKGHfwhG.js
+Content Type: text/javascript
+
+Uri: https://www.freeportpsychic.com/
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\index.htm
+Content Type: text/html
+
+Uri: https://www.freeportpsychic.com/welcome?format=rss
+File Name: C:\Downloaded Web Sites\www.freeportpsychic.com\welcome
+Content Type: application/rss+xml
+
